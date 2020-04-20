@@ -1,0 +1,3 @@
+
+MAX_ROW = 9
+MAX_COLUMN = 9
